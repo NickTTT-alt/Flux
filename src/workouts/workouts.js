@@ -1,40 +1,80 @@
 let workouts = [
 `<workout_file>
-    <author>Flux</author>
-    <name>Nick's Bogus Test Yo</name>
-    <category>Ramp Test</category>
-    <description>Ramp test proceeding in steps of 6% of previous FTP for 60 seconds. Do until exhoustion and take 75% of the power you did in the last interval you’ve reached. That's your new FTP.</description>
+    <author>Zhuangzi</author>
+    <name>Zone II Slope followed by 4x4</name>
+    <description></description>
     <sportType>bike</sportType>
-    <tags>
-    </tags>
+    <tags></tags>
     <workout>
-        <SteadyState Duration=" 300" Power="0.46" />
-        <SteadyState Duration="60" Power="0.52" />
-        <SteadyState Duration="60" Power="0.58" />
-        <SteadyState Duration="60" Power="0.64" />
-        <SteadyState Duration="60" Power="0.70" />
-        <SteadyState Duration="60" Power="0.76" />
-        <SteadyState Duration="60" Power="0.82" />
-        <SteadyState Duration="60" Power="0.88" />
-        <SteadyState Duration="60" Power="0.94" />
-        <SteadyState Duration="60" Power="1.0" />
-        <SteadyState Duration="60" Power="1.06" />
-        <SteadyState Duration="60" Power="1.12" />
-        <SteadyState Duration="60" Power="1.18" />
-        <SteadyState Duration="60" Power="1.24" />
-        <SteadyState Duration="60" Power="1.3" />
-        <SteadyState Duration="60" Power="1.36" />
-        <SteadyState Duration="60" Power="1.42" />
-        <SteadyState Duration="60" Power="1.48" />
-        <SteadyState Duration="60" Power="1.54" />
-        <SteadyState Duration="60" Power="1.6" />
-        <SteadyState Duration="60" Power="1.66" />
-        <SteadyState Duration="60" Power="1.72" />
-        <SteadyState Duration="60" Power="1.78" />
-        <SteadyState Duration="60" Power="1.84" />
-        <SteadyState Duration="60" Power="1.9" />
-        <SteadyState Duration="60" Power="1.96" />
-        <SteadyState Duration="60" Power="2.02" />
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.6" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.8" Power="0.56"/>
+        <SteadyState Duration="1500" Slope="2.0" Power="0.73"/>
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/>
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/>
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/> 
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/> 
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/> 
+    </workout>
+</workout_file>`,
+`<workout_file>
+    <author>Zhuangzi</author>
+    <name>Denise  Zone II</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags></tags>
+    <workout>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+        <SteadyState Duration="60" Slope="0.9" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.1" Power="0.56"/>
+        <SteadyState Duration="1080" Slope="1.2" Power="0.73"/>
+    </workout>
+</workout_file>`,
+    <workout_file>
+    <author>Zhuangzi</author>
+    <name>Zone II Slope</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags></tags>
+    <workout>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
+        <SteadyState Duration="60" Slope="2.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="2.1" Power="0.56"/>
+        <SteadyState Duration="3300" Slope="2.0" Power="0.73"/>
+        <SteadyState Duration="60" Slope="1.5" Power="0.68"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.62"/>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+    </workout>
+</workout_file>`,
+`<workout_file>
+    <author>Zhuangzi</author>
+    <name>Classic 4x4</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags></tags>
+    <workout>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/>
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/>
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/> 
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
+        <SteadyState Duration="240" Slope="3.3" Power="0.9"/> 
+        <SteadyState Duration="240" Slope="1.0" Power="0.68"/> 
     </workout>
 </workout_file>`,
 ];
