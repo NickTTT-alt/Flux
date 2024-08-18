@@ -37,7 +37,7 @@ let workouts = [
         <SteadyState Duration="1080" Slope="1.2" Power="0.73"/>
     </workout>
 </workout_file>`,
-    <workout_file>
+    `<workout_file>
     <author>Zhuangzi</author>
     <name>Zone II Slope</name>
     <description></description>
