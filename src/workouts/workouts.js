@@ -11,7 +11,7 @@ let workouts = [
         <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
         <SteadyState Duration="60" Slope="1.6" Power="0.56"/>
         <SteadyState Duration="60" Slope="1.8" Power="0.56"/>
-        <SteadyState Duration="1500" Slope="2.0" Power="0.73"/>
+        <SteadyState Duration="1500" Slope="2.1" Power="0.73"/>
         <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
         <SteadyState Duration="240" Slope="3.3" Power="0.9"/>
         <SteadyState Duration="240" Slope="1.0" Power="0.68"/>
@@ -47,10 +47,10 @@ let workouts = [
         <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
         <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
         <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
-        <SteadyState Duration="60" Slope="2.0" Power="0.56"/>
-        <SteadyState Duration="60" Slope="2.1" Power="0.56"/>
-        <SteadyState Duration="3300" Slope="2.0" Power="0.73"/>
-        <SteadyState Duration="60" Slope="1.5" Power="0.68"/>
+        <SteadyState Duration="60" Slope="1.7" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.9" Power="0.56"/>
+        <SteadyState Duration="3300" Slope="2.1" Power="0.73"/>
+        <SteadyState Duration="60" Slope="1.2" Power="0.68"/>
         <SteadyState Duration="60" Slope="1.0" Power="0.62"/>
         <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
     </workout>
