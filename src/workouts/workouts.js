@@ -30,15 +30,15 @@ let workouts = [
 	<sportType>bike</sportType>
 	<tags></tags>
 	<workout>
-		<SteadyState Duration="60" Slope="1.0" Power="70W"/>
-		<SteadyState Duration="60" Slope="1.0" Power="80W"/>
+		<SteadyState Duration="60" Slope="0.8" Power="70W"/>
+		<SteadyState Duration="60" Slope="0.8" Power="80W"/>
 		<SteadyState Duration="60" Slope="1.0" Power="90W"/>
 		<SteadyState Duration="60" Slope="1.0" Power="100W"/>
-		<SteadyState Duration="60" Slope="1.0" Power="110W"/>
+		<SteadyState Duration="60" Slope="0.7" Power="70W"/>
 		<SteadyState Duration="150" Slope="1.95" Power="145W"/>
-		<SteadyState Duration="150" Slope="2.7" Power="195W"/>
-		<SteadyState Duration="150" Slope="3.2" Power="220W"/>
-		<SteadyState Duration="150" Slope="3.5" Power="245W"/>
+		<SteadyState Duration="150" Slope="2.75" Power="195W"/>
+		<SteadyState Duration="150" Slope="3.25" Power="220W"/>
+		<SteadyState Duration="150" Slope="3.6" Power="245W"/>
 		<SteadyState Duration="150" Slope="3.7" Power="270W"/>
 		<SteadyState Duration="150" Slope="4.0" Power="295W"/>
 		<SteadyState Duration="150" Slope="4.2" Power="320W"/>
