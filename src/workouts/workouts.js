@@ -23,7 +23,7 @@ let workouts = [
         <SteadyState Duration="240" Slope="1.0" Power="0.68"/> 
     </workout>
 </workout_file>`,
-    <workout_file>
+    `<workout_file>
 	<author>Zhuangzi</author>
 	<name>Noakes Test</name>
 	<description></description>
