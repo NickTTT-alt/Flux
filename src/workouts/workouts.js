@@ -23,6 +23,27 @@ let workouts = [
         <SteadyState Duration="240" Slope="1.0" Power="0.68"/> 
     </workout>
 </workout_file>`,
+    <workout_file>
+	<author>Zhuangzi</author>
+	<name>Noakes Test</name>
+	<description></description>
+	<sportType>bike</sportType>
+	<tags></tags>
+	<workout>
+		<SteadyState Duration="60" Slope="1.0" Power="70W"/>
+		<SteadyState Duration="60" Slope="1.0" Power="80W"/>
+		<SteadyState Duration="60" Slope="1.0" Power="90W"/>
+		<SteadyState Duration="60" Slope="1.0" Power="100W"/>
+		<SteadyState Duration="60" Slope="1.0" Power="110W"/>
+		<SteadyState Duration="150" Slope="1.95" Power="145W"/>
+		<SteadyState Duration="150" Slope="2.7" Power="195W"/>
+		<SteadyState Duration="150" Slope="3.2" Power="220W"/>
+		<SteadyState Duration="150" Slope="3.5" Power="245W"/>
+		<SteadyState Duration="150" Slope="3.7" Power="270W"/>
+		<SteadyState Duration="150" Slope="4.0" Power="295W"/>
+		<SteadyState Duration="150" Slope="4.2" Power="320W"/>
+	</workout>
+</workout_file>`,
 `<workout_file>
     <author>Zhuangzi</author>
     <name>Denise  Zone II</name>
