@@ -1,6 +1,24 @@
 let workouts = [
 `<workout_file>
     <author>Zhuangzi</author>
+    <name>Zone II Slope Easy</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags></tags>
+    <workout>
+        <SteadyState Duration="60" Slope="0.5" Power="0.56"/>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.2" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.4" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.6" Power="0.56"/>
+        <SteadyState Duration="3300" Slope="1.7" Power="0.73"/>
+        <SteadyState Duration="60" Slope="1.2" Power="0.68"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.62"/>
+        <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
+    </workout>
+</workout_file>`,
+`<workout_file>
+    <author>Zhuangzi</author>
     <name>Zone II Slope followed by 4x4</name>
     <description></description>
     <sportType>bike</sportType>
