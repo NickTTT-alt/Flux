@@ -6,12 +6,12 @@ let workouts = [
     <sportType>bike</sportType>
     <tags></tags>
     <workout>
-        <SteadyState Duration="60" Slope="0.5" Power="0.56"/>
-        <SteadyState Duration="60" Slope="0.9" Power="0.56"/>
-        <SteadyState Duration="60" Slope="1.3" Power="0.56"/>
-        <SteadyState Duration="60" Slope="1.5" Power="0.56"/>
-        <SteadyState Duration="60" Slope="1.7" Power="0.56"/>
-        <SteadyState Duration="3300" Slope="1.8" Power="0.73"/>
+        <SteadyState Duration="60" Slope="0.6" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.0" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.4" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.6" Power="0.56"/>
+        <SteadyState Duration="60" Slope="1.8" Power="0.56"/>
+        <SteadyState Duration="3300" Slope="1.9" Power="0.73"/>
         <SteadyState Duration="60" Slope="1.2" Power="0.68"/>
         <SteadyState Duration="60" Slope="1.0" Power="0.62"/>
         <SteadyState Duration="60" Slope="0.8" Power="0.56"/>
